@@ -4,16 +4,19 @@
 <img width="1333" height="770" alt="Screenshot 2026-01-15 075556" src="https://github.com/user-attachments/assets/959bf3fd-d80c-48f9-88ab-dab355ce6e11" />
 <img width="1327" height="761" alt="Screenshot 2026-01-15 075814" src="https://github.com/user-attachments/assets/1676ecb6-3a9c-4563-a6d0-6bae407e87ff" />
 
+
+
 ### 🗒️Table of Content
 
- - [Project Overview](#project-overview)
- - [Business Problem](#business-problem)
- - [Tools Used](#Tools-used)
- - [Data Description](#data-description)
- - [Dashboard Scope & Features](#Dashboard-scope-&-features)
- - [Key Insights](#key-insights)
- - [Conclusion](#Conclusion)
- - [Recommendations](#Recommendations)
+   - [Project Overview](#project-overview)
+   - [Business Problem](#business-problem)
+   - [Tools Used](#tools-used)
+   - [Data Description](#data-description)
+   - [Dashboard Scope & Features](#dashboard-scope-&-features)
+   - [Key Insights](#key-insights)
+   - [Conclusion](#conclusion)
+   - [Recommendations](#recommendations)
+
    
 ### 📌 Project Overview
 This project analyzes NovaMed Solutions’ 2023 pharmaceutical sales data to evaluate revenue performance, profitability, product demand, and customer behaviour. Using Power BI, interactive dashboards were developed to support data-driven decisions around sales optimization, inventory planning, and customer segmentation.
@@ -26,11 +29,13 @@ NovaMed Solutions faced challenges in:
 - Improving demand forecasting and inventory efficiency
 - Understanding customer demographics and regional revenue drivers
 Without centralized reporting, stakeholders lacked visibility into profitability trends and customer behaviour needed for strategic planning.
+
 ### 🛠 Tools Used
 - Power BI for data modelling, DAX calculations, and interactive dashboards
 - Power Query for data cleaning and transformation
 - DAX for KPIs such as revenue, profit, profit margin, and rankings
 - Excel datasets as source files
+
 ### 📊 Data Description
 The project integrates three core datasets:
 Drug Information
@@ -55,6 +60,7 @@ Customer Information
 - Country
 - Buyer Details
 These datasets were modelled using relational keys to enable cross-analysis between products, customers, and sales transactions.
+
 ### 📈 Dashboard Scope & Features
 Dashboard 1. Top / Bottom Analysis
 - Total Revenue, COGS, Profit, and Profit Margin KPIs
