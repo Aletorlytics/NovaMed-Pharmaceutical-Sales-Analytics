@@ -4,9 +4,7 @@
 <img width="1333" height="770" alt="Screenshot 2026-01-15 075556" src="https://github.com/user-attachments/assets/959bf3fd-d80c-48f9-88ab-dab355ce6e11" />
 <img width="1327" height="761" alt="Screenshot 2026-01-15 075814" src="https://github.com/user-attachments/assets/1676ecb6-3a9c-4563-a6d0-6bae407e87ff" />
 
-
-
-### 🗒️Table of Content
+### 📊Table of Content
 
    - [Project Overview](#project-overview)
    - [Business Problem](#business-problem)
@@ -16,7 +14,6 @@
    - [Key Insights](#key-insights)
    - [Conclusion](#conclusion)
    - [Recommendations](#recommendations)
-
    
 ### 📌 Project Overview
 This project analyzes NovaMed Solutions’ 2023 pharmaceutical sales data to evaluate revenue performance, profitability, product demand, and customer behaviour. Using Power BI, interactive dashboards were developed to support data-driven decisions around sales optimization, inventory planning, and customer segmentation.
@@ -45,7 +42,6 @@ Drug Information
 - Cost of Production
 - Medical Condition Treated
 - Regulatory Compliance ID
-
 Sales Information
 - Sale ID
 - Drug ID
@@ -53,6 +49,7 @@ Sales Information
 - Units Sold
 - Sale Date
 - Buyer Type (Individual, Pharmacy, Hospital)
+
 Customer Information
 - Customer ID
 - Age
