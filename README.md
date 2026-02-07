@@ -15,11 +15,11 @@
    - [Conclusion](#conclusion)
    - [Recommendations](#recommendations)
    
-### 📌 Project Overview
+### 📌Project Overview
 This project analyzes NovaMed Solutions’ 2023 pharmaceutical sales data to evaluate revenue performance, profitability, product demand, and customer behaviour. Using Power BI, interactive dashboards were developed to support data-driven decisions around sales optimization, inventory planning, and customer segmentation.
 The analysis focuses on identifying top and underperforming drugs and customers, tracking month-over-month trends, and understanding how demographics and geography influence purchasing behaviour.
 
-### 🎯 Business Problem
+### 🎯Business Problem
 NovaMed Solutions faced challenges in:
 - Optimizing sales performance across a diverse drug portfolio
 - Identifying high and low-performing products and customers
@@ -27,13 +27,13 @@ NovaMed Solutions faced challenges in:
 - Understanding customer demographics and regional revenue drivers
 Without centralized reporting, stakeholders lacked visibility into profitability trends and customer behaviour needed for strategic planning.
 
-### 🛠 Tools Used
+### 🛠Tools Used
 - Power BI for data modelling, DAX calculations, and interactive dashboards
 - Power Query for data cleaning and transformation
 - DAX for KPIs such as revenue, profit, profit margin, and rankings
 - Excel datasets as source files
 
-### 📊 Data Description
+### 📊Data Description
 The project integrates three core datasets:
 Drug Information
 - Drug ID
@@ -58,7 +58,7 @@ Customer Information
 - Buyer Details
 These datasets were modelled using relational keys to enable cross-analysis between products, customers, and sales transactions.
 
-### 📈 Dashboard Scope & Features
+### 📈Dashboard Scope & Features
 Dashboard 1. Top / Bottom Analysis
 - Total Revenue, COGS, Profit, and Profit Margin KPIs
 - Month-over-month revenue and profit comparison
@@ -72,17 +72,18 @@ Dashboard 2. Customer Analysis
 - Revenue breakdown by country and buyer category
 - Revenue trends by age group and gender
 - Geographic revenue insights highlighting top contributing countries
-### 🔍 Key Insights
+
+### 🔍Key Insights
 - A small group of drugs drives a disproportionate share of total revenue and profit
 - Certain drugs generate high sales volume but low margins, indicating pricing or cost issues
 - Hospitals and pharmacies contribute a higher average revenue than individual buyers
 - Revenue concentration is strongest in the top two countries, signalling market dependency risk
 - Specific age and gender segments show consistent purchasing patterns across drug categories
 
-### ✅ Conclusion
+### ✅Conclusion
 The Power BI dashboards provide NovaMed Solutions with a consolidated view of sales performance and customer behaviour. By combining product profitability analysis with demographic insights, the company gains clarity on where revenue is generated, where margins are eroding, and which customer segments offer the highest long-term value.
 
-### 🚀 Recommendations
+### 🚀Recommendations
 - Prioritise inventory planning for high-margin, high-demand drugs
 - Reassess pricing or production costs for low-margin, high-volume products
 - Strengthen engagement with top-performing customer segments, especially hospitals and pharmacies
